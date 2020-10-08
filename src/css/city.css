@@ -1,0 +1,28 @@
+.city{
+    min-width: 1200px;
+    /* width: 100%; */
+}
+.city>div{
+    margin-top: 10px;
+}
+.city .top .tit{
+    margin-left: 16px;
+}
+.city .top .rest{
+    margin-left: 16px;
+}
+.ant-input{
+    width: 80%;
+}
+.ant-modal-body span{
+    display: inline-block;
+    width: 16%;
+    text-align: justify;
+    vertical-align: top;
+}
+.ant-modal-body span::after {
+    display: inline-block;
+    width: 100%;
+    content: '';
+    height: 0;
+}

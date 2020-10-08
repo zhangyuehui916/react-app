@@ -1,0 +1,43 @@
+/* @import 'antd/dist/antd.css'; */
+
+.trigger {
+    font-size: 18px;
+    line-height: 64px;
+    padding: 0 24px;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  
+  .trigger:hover {
+    color: #1890ff;
+  }
+  
+  .logo {
+    height: 38px;
+    /* background: rgba(255, 255, 255, 0.2); */
+    margin: 16px;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+  
+  .site-layout .site-layout-background {
+    background: #fff;
+  }
+  .ant-layout {
+    /* height: 100vh; */
+  }
+  .icon-logo1{
+    /* font-size: 40px; */
+    color: #ddd7df;
+  }
+  .icon-logo1:before{
+    font-size: 28px;
+    color: aqua;
+  }
+  .icon-logo1 i{
+    font-style: normal;
+    margin-left: 20px;
+    font-size: 18px;
+    font-weight: 700;
+    white-space: nowrap;
+  }

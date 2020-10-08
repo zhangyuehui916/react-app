@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "647467",
+      "name": "logo",
+      "font_class": "logo",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "10503818",
+      "name": "logo",
+      "font_class": "logo1",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "13429084",
+      "name": "logo-tux",
+      "font_class": "logo-tux",
+      "unicode": "e8f5",
+      "unicode_decimal": 59637
+    }
+  ]
+}
